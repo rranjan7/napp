@@ -1,0 +1,19 @@
+{
+  "name": "napp",
+  "version": "1.0.0",
+  "description": "sample node app",
+  "main": "main.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rranjan7/napp.git"
+  },
+  "author": "rajeev ranjan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rranjan7/napp/issues"
+  },
+  "homepage": "https://github.com/rranjan7/napp#readme"
+}
